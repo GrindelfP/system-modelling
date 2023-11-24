@@ -1,4 +1,4 @@
-information: str = "The Ball. Mathmodel of interacting-populations jumping as time passes."
+information: str = "The Ball. Mathmodel of 5-competition jumping as time passes."
 
 
 def info():
